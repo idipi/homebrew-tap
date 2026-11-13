@@ -2,7 +2,7 @@ class Buckle < Formula
   desc "Kernel-level Seatbelt Sandbox & Hardware Broker for AI Agents on macOS"
   homepage "https://github.com/idipi/buckle"
   url "https://github.com/idipi/buckle/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "23e755e56dfc0fd409d360e1238d6bee86a846e62a6237f8431b3401a27bfcdf"
   license "MIT"
   head "https://github.com/idipi/buckle.git", branch: "master"
 
